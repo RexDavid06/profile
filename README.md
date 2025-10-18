@@ -10,8 +10,7 @@ This project demonstrates how to build and expose a JSON API endpoint using Pyth
 ---
 
 # Live API URL:
- **(Add your deployed link here once hosted, e.g. https://profileapi-production.up.railway.app/api/me/)**
-
+ profile-django-app.up.railway.app
 
 
 # GET /api/me/
