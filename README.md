@@ -25,7 +25,7 @@ json
     "stack": ["PYTHON", "DJANGO"]
   },
   "timestamp": "2025-10-18T11:02:51.314811+00:00",
-  "facts": "A cat..."
+  "fact": "A cat..."
 }
 
 
